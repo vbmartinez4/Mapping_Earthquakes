@@ -104,4 +104,3 @@ L.control.layers(baseMaps).addTo(map);
 
 // Then we add our 'streets' tile layer to the map.
 streets.addTo(map);
-
