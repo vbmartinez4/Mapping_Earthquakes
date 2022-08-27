@@ -80,6 +80,8 @@ legend.onAdd = function () {
       "#ea2c2c"
     ];
 
+    
+
 // Looping through our intervals to generate a label with a colored square for each interval.
 for (var i = 0; i < magnitudes.length; i++) {
   console.log(colors[i]);
