@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
 ## Overview
 Clients Basil and Sadhana had asked for our assistance in creating an interactive earthquake map that allows users to sift through multiple map views to view the intensity and areas of where they have appeared within the last seven days. Geographical features have been included to reflect the multiple points of earthquake activity globally as well as the creation of pop up markers to provide us information such as earthquake magnitude and location as we hover through all of the activity. Not only has this developed to be an informative site, but eye-catching for new users to navigate and explore the most recent earthquakes the past recent week.
