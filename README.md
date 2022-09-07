@@ -3,11 +3,26 @@
 ## Overview
 Clients Basil and Sadhana had asked for our assistance in creating an interactive earthquake map that allows users to sift through multiple map views to view the intensity and areas of where they have appeared within the last seven days. Geographical features have been included to reflect the multiple points of earthquake activity globally as well as the creation of pop up markers to provide us information such as earthquake magnitude and location as we hover through all of the activity. Not only has this developed to be an informative site, but eye-catching for new users to navigate and explore the most recent earthquakes the past recent week.
 
-## Resources
+## Tech Used:
 - Mapbox API
 - JavaScript
 - Leaflet.js
+- D3.js
 - GeoJSON Data
+- HTML
+- CSS
+
+## Dataset: 
+- U.S. Geological Survey: GeoJSON Feed of All Earthquakes Past 7 Days
+
+## Objectives:
+- Merge a branch with the main branch on GitHub.
+- Retrieve data from a GeoJSON file.
+- Make API requests to a server to host geographical maps.
+- Populate geographical maps with GeoJSON data using JavaScript and the Data-Driven Documents (D3) library.
+- Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.
+- Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
+- Render maps on a local server.
 
 ## Results
 Additional features were recommended to be added to provide further visual information of our earthquake data. The new visuals consist of the following:
